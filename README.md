@@ -15,7 +15,7 @@ I am Sahil Duhan, currently pursuing my B.Tech in Software Engineering from Delh
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilduhan&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sahilduhan&theme=radical&no-frame=false&no-bg=false&margin-w=8)
+![](https://github-profile-trophy.vercel.app/?username=sahilduhan&theme=radical&no-frame=false&no-bg=false&margin-w=10)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sahilduhan&limit=5&theme=radical&combine_all_yearly_contributions=true)
