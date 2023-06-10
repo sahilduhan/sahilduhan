@@ -14,6 +14,10 @@ I am Sahil Duhan, currently pursuing my B.Tech in Software Engineering from Delh
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sahilduhan&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilduhan&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<p align="center">
+  <img src="https://github.com/sahilduhan/sahilduhan/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sahilduhan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
@@ -23,14 +27,3 @@ I am Sahil Duhan, currently pursuing my B.Tech in Software Engineering from Delh
 ---
 [![](https://visitcount.itsvg.in/api?id=sahilduhan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 📈 Stats 
-<p align="center">
-	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sahilduhan&show_icons=true&count_private=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilduhan&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/sahilduhan/sahilduhan/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
