@@ -6,7 +6,7 @@ I am Sahil Duhan, currently pursuing my B.Tech in Software Engineering from Delh
 [![Instagram Badge](https://img.shields.io/badge/-sahilduhan.exe-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/sahilduhan.exe/)](https://instagram.com/sahilduhan.exe)
 [![Gmail Badge](https://img.shields.io/badge/-duhan.sahil16@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:duhan.sahil16@gmail.com)](mailto:duhan.sahil16@gmail.com)
 
-[![Samyak's github activity graph](https://activity-graph.herokuapp.com/graph?username=sahilduhan&theme=xcode)](https://git.io/sahilduhan)
+<!-- [![Samyak's github activity graph](https://activity-graph.herokuapp.com/graph?username=sahilduhan&theme=xcode)](https://git.io/sahilduhan) -->
 
 
 ## ⚡ Technologies
