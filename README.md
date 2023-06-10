@@ -3,8 +3,8 @@
 I am Sahil Duhan, currently pursuing my B.Tech in Software Engineering from Delhi Technological University(formerly Delhi College of Engineering). I am a tech enthusiast & a problem solver. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahilduhan.exe) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilduhan16) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Sahil Duhan&logoColor=white)](https://instagram.com/sahilduhan.exe) 
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=Sahilduhan16&logoColor=white)](https://linkedin.com/in/sahilduhan16)  -->
 [![Linkedin Badge](https://img.shields.io/badge/-sahilduhan16-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahilduhan16/)](https://www.linkedin.com/in/sahilduhan16/)
 
 # 💻 Tech Stack:
